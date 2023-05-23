@@ -1,5 +1,5 @@
 # README
-Sure! Here's a template for a README file for your API-only Rails application that uses ChatGPT plugins:
+
 
 # ASK BIG BEN: ChatGPT-Plugin API Rails Application
 
