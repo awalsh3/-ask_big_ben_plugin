@@ -2,8 +2,8 @@
   "schema_version": "v1",
   "name_for_human": "Ask Big Ben Plugin",
   "name_for_model": "ask_big_ben_plugin",
-  "description_for_human": "My first ChatGPT plugin",
-  "description_for_model": "plugin which says hello.",
+  "description_for_human": "Ask Big Ben is a tool to research Members of Parliament's financial interestes, connections and the flow of power inside parliament. Big Ben is watching. ",
+  "description_for_model": "Use this tool to answer questions using Big Ben Sources.",
   "auth": {
     "type": "none"
   },
@@ -13,6 +13,6 @@
     "is_user_authenticated": false
   },
   "logo_url": "http://localhost:3000/logo.png",
-  "contact_email": "support@example.com",
-  "legal_info_url": "http://www.example.com/legal"
+  "contact_email": "hithere@anyonething.org",
+  "legal_info_url": "http://www.anyonething.org"
 }
