@@ -5,10 +5,10 @@ info:
 servers:
   - url: http://localhost:3000/api
 paths:
-  /hello:
+  /ask_big_ben:
     get:
-      summary: Say hello
-      description: Says hello from the plugin
+      summary: Say I'd like to ask big ben something about a member of parliament
+      description: Says What would you like to ask big ben?
       responses:
         "200":
           description: OK

@@ -3,7 +3,7 @@
   "name_for_human": "Ask Big Ben Plugin",
   "name_for_model": "ask_big_ben_plugin",
   "description_for_human": "A tool to research Members of Parliament's connections and the flow of power inside parliament. Big Ben is watching. ",
-  "description_for_model": "Use this tool to answer questions using Big Ben Sources.",
+  "description_for_model": "plugin which says What would you like to ask big ben? and use this tool to answer questions about parliament or people related to parliament using Big Ben Sources.",
   "auth": {
     "type": "none"
   },
